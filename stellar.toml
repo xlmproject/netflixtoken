@@ -1,0 +1,29 @@
+# Stellar Asset Profile (SEP-1) for Netflix Token
+# Hosted at: https://netflixcoin.pages.dev/.well-known/stellar.toml
+
+[[CURRENCIES]]
+code = "NETFLIX"
+issuer = "GD473SCIWAE7FDLBR4VZ43LRR7UP6PXLS6OIMSWINEPP2L3W5FN6CJMC"
+name = "Netflix Token"
+display_decimals = 7
+image = "https://netflixcoin.pages.dev/token.svg"
+desc = "Netflix Token is a community-inspired digital asset concept on Stellar, built around vivid identity, open participation, and a borderless digital future. Verify issuer and asset details before interacting."
+status = "live"
+
+
+[DOCUMENTATION]
+ORG_NAME = "Netflix Token"
+ORG_URL = "https://netflixcoin.pages.dev/"
+ORG_DESCRIPTION = "Netflix Token — a community-inspired token profile for the Stellar network."
+ORG_LOGO = "https://netflixcoin.pages.dev/token.svg"
+ORG_TWITTER = ""
+ORG_GITHUB = ""
+ORG_OFFICIAL_EMAIL = ""
+
+
+[[PRINCIPALS]]
+name = "Netflix Token"
+email = ""
+key = "GD473SCIWAE7FDLBR4VZ43LRR7UP6PXLS6OIMSWINEPP2L3W5FN6CJMC"
+
+# Add verified contact/social links and a real issuer signing key if available.
