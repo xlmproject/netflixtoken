@@ -1,16 +1,12 @@
-# Stellar token profile for Netflix Token
-# Host this file at: https://netflixcoin.pages.dev/.well-known/stellar.toml
-VERSION="2.0.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+# Stellar token profile for Netflix Token
+VERSION="2.7.0"
 
 [DOCUMENTATION]
 ORG_NAME="Netflix Token"
-ORG_URL="https://netflixcoin.pages.dev/"
+ORG_URL="https://netflixcoin.pages.dev"
 ORG_DESCRIPTION="A community-inspired digital asset concept on the Stellar network, exploring color, motion, and digital possibility. This profile describes the token and does not imply affiliation with Netflix, Inc."
-ORG_LOGO="https://netflixcoin.pages.dev/assets/coin.svg"
-ORG_TWITTER=""
-ORG_GITHUB=""
-ORG_OFFICIAL_EMAIL=""
+ORG_LOGO="https://netflixcoin.pages.dev/assets/logo.jpg"
 
 [[CURRENCIES]]
 code="NETFLIX"
@@ -18,5 +14,4 @@ issuer="GD473SCIWAE7FDLBR4VZ43LRR7UP6PXLS6OIMSWINEPP2L3W5FN6CJMC"
 display_decimals=7
 name="Netflix Token"
 description="A spark on the Stellar network. Netflix Token is an experiment in imagination, motion, and possibility—where a simple red signal opens into an infinite spectrum."
-image="https://netflixcoin.pages.dev/assets/coin.svg"
-
+image="https://netflixcoin.pages.dev/assets/logo.jpg"
